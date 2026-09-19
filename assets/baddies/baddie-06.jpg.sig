@@ -1,0 +1,1 @@
+{"bg": "club", "eyes": "heart", "glasses": null, "hair": "bobcat-1", "hats": null, "items": null, "mouth": "big-lips-2", "overlays": null, "top": "hoodie-1"}

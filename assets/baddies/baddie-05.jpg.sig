@@ -1,0 +1,1 @@
+{"bg": "rest-room", "eyes": "stoned", "glasses": null, "hair": "straight-3", "hats": null, "items": null, "mouth": "cigarette", "overlays": "date-stamp", "top": "shirt-3"}

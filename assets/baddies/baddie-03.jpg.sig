@@ -1,0 +1,1 @@
+{"bg": "crack-house", "eyes": "lava", "glasses": "elegant", "hair": "straight-1", "hats": "b", "items": "ledger", "mouth": "big-lips-1", "overlays": null, "top": "crop-top-4"}

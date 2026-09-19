@@ -1,0 +1,1 @@
+{"bg": "hood-store", "eyes": "heart", "glasses": null, "hair": "wavey-1", "hats": null, "items": "senorita", "mouth": "big-lips-2", "overlays": null, "top": "tank-top-1"}

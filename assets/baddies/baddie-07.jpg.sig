@@ -1,0 +1,1 @@
+{"bg": "bystander-lounge", "eyes": "lava", "glasses": null, "hair": "straight-2", "hats": null, "items": null, "mouth": "big-lips-1", "overlays": "date-stamp", "top": "hoodie-3"}

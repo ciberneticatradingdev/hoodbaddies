@@ -1,0 +1,1 @@
+{"bg": "baddies-burgers", "eyes": "stoned", "glasses": null, "hair": "straight-3", "hats": null, "items": "senorita", "mouth": "cigarette", "overlays": "date-stamp", "top": "shirt-10"}

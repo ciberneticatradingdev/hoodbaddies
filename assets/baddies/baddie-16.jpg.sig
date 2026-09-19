@@ -1,0 +1,1 @@
+{"bg": "drunk-af", "eyes": "stoned", "glasses": "elegant", "hair": "wavey-2", "hats": "applebees", "items": "iphone17", "mouth": "lip-bite", "overlays": "date-stamp", "top": "fur-coat-1"}

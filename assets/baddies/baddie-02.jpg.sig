@@ -1,0 +1,1 @@
+{"bg": "economy", "eyes": "stoned", "glasses": "eyeglasses", "hair": "straight-3", "hats": "du-rag-2", "items": null, "mouth": "weed", "overlays": null, "top": "fur-coat-1"}

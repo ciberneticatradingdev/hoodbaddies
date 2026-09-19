@@ -1,0 +1,1 @@
+{"bg": "enjoy-af", "eyes": "stoned", "glasses": "aviator", "hair": "straight-1", "hats": "pillbox", "items": null, "mouth": "normal", "overlays": null, "top": "tank-top-1"}

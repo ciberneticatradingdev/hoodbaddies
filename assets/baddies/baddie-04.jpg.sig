@@ -1,0 +1,1 @@
+{"bg": "club", "eyes": "heart", "glasses": null, "hair": "straight-2", "hats": "lehman-sisters", "items": null, "mouth": "big-lips-1", "overlays": null, "top": "shirt-6"}

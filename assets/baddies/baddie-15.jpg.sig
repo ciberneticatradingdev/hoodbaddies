@@ -1,0 +1,1 @@
+{"bg": "first-class", "eyes": "lime", "glasses": "eyeglasses", "hair": "straight-2", "hats": "du-rag-1", "items": "cash", "mouth": "weed", "overlays": "date-stamp", "top": "fur-coat-2"}

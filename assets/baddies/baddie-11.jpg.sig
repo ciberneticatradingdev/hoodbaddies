@@ -1,0 +1,1 @@
+{"bg": "sunflower-field", "eyes": "lime", "glasses": null, "hair": "wavey-1", "hats": "beret", "items": "cash", "mouth": "cigarette", "overlays": "date-stamp", "top": "shirt-8"}

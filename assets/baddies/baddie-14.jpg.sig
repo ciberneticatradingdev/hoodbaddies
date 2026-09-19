@@ -1,0 +1,1 @@
+{"bg": "mansion-1", "eyes": "noir", "glasses": null, "hair": "straight-2", "hats": null, "items": null, "mouth": "lip-bite", "overlays": null, "top": "hoodie-1"}

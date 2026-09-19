@@ -1,0 +1,1 @@
+{"bg": "walk-in-closet", "eyes": "lime", "glasses": null, "hair": "bobcat-2", "hats": "tiara", "items": null, "mouth": "normal", "overlays": null, "top": "fur-coat-1"}
